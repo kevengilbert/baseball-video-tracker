@@ -1,0 +1,6 @@
+Tech Stack:
+Frontend: React (possibly Next.js for performance)
+Backend (Optional): Node.js + Express.js (or Firebase for serverless)
+Database: MongoDB (NoSQL) or PostgreSQL (SQL) if needed
+Storage: Cloudinary, Firebase Storage, or AWS S3 for video hosting
+Version Control: GitHub (public repo)
